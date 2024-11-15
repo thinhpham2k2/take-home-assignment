@@ -1,6 +1,6 @@
 # Take-home Assignment
 
-##Command line to run(Example)
+## Command line to run(Example)
 - ./runner.sh
 - ./runner.sh iJhz none
 - ./runner.sh none 5432
