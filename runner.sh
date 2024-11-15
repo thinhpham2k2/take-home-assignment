@@ -7,5 +7,5 @@ java -cp ".;./target/dependency/gson-2.11.0.jar" Main "$1" "$2"
 #java -cp ".:./target/dependency/gson-2.11.0.jar" Main "$1" "$2"
 
 #
-#Command line to run "./runner.sh hotel_id_4,hotel_id_5 destination_id_1,destination_id_2"
+#Command line to run "./runner hotel_id_4,hotel_id_5 destination_id_1,destination_id_2"
 #
